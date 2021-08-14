@@ -1,0 +1,25 @@
+/* classlar için --> . kullanılır
+birden fazla class olabilir*/
+/* id için --> #id-bilgisi kullanılır
+ama asla birden fazla id olamaz
+id ler unique dir*/
+
+.text-red{
+
+color: red;
+
+}
+.fs-16{
+
+    font-size: 40px;
+}
+h1,h2{
+
+    color: yellow;
+}
+h1{
+
+color: purple;
+
+
+}

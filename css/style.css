@@ -1,0 +1,27 @@
+/*açıklama satırı kullanabilirsiniz
+jdjfkjkfjfd,
+hfdjshjhfjshfj */
+  h1{
+    text-transform: uppercase;
+    font-size:  25px;
+    font-style: italic;   
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+p{
+    color:purple;
+    font-size: 40px;
+    text-transform: capitalize;
+    
+
+}
+body {
+    background-image: url("resim1.jpg");
+    background-color: royalblue;
+     background-repeat: no-repeat;
+     background-position: right top;
+     background-attachment: fixed;
+
+   
+  }
+ 
+
